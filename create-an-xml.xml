@@ -1,0 +1,44 @@
+?xml version="1.0" encoding="UTF-8"?>  
+   
+<library> 
+  
+    <technical books>
+
+        <book>
+
+            <book isbn-13="978-0131774292" isbn-10="0131774298">    
+            <title>Python Programming</title>
+            <author>Peter van der Linden</author>
+
+        </book>
+
+        <book>
+
+            <book isbn-13="979-8739796189">
+            <title>Grap paper Data representation: Mathematics Graph Paper Notebook 8.5 x 11 inches| 100 pages</title>
+            <author>Tasnimul Nijhum</author> 
+			
+        </book>
+
+    </technical books>
+
+    <cookery books>
+
+        <book>
+
+            <book isbn="978-1-78-503893-8">
+            <title>Flavour</title>
+            <author>Yotam Ottolenghi Ixta Belfrage</author>
+			
+        </book>
+
+        <book>
+
+            <book isbn="978-0-00-817248-0">
+            <title>One, Pot, Pan, Planet: A greener way to cook for you, your family and the planet</title>   
+            <author>Annas Jones</author>
+			
+        </book>
+
+    </cookery books>
+</library>
